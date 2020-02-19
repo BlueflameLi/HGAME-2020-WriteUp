@@ -1,4 +1,4 @@
-# HGAME Week2 WriteUp
+# HGAME Week3 WriteUp
 ## Web
 ### 序列之争 - Ordinal Scale
 第一步才是最艰难的。。。  
